@@ -75,8 +75,9 @@ public class RedisConfig {
 
 4. API + Redis Cache 테스트
 - 값 저장
-![](./../images/postman저장.png)
-![](./../images/redis-cli값.png)
+![image](https://user-images.githubusercontent.com/101205543/200498055-0995b97b-ebfd-4870-af2a-1eed01a88214.png)
+![image](https://user-images.githubusercontent.com/101205543/200498121-8ad08005-a508-4cca-b5bd-dfbeb9715c07.png)
 
 - 값 조회
-![](./../images/postman조회.png)
+![image](https://user-images.githubusercontent.com/101205543/200497990-287aacf8-0996-420b-8bf5-6b27bf1e733d.png)
+
