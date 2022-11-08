@@ -74,10 +74,11 @@ public class RedisConfig {
 ```
 
 4. API + Redis Cache 테스트
-- 값 저장
+값 저장
+
 ![image](https://user-images.githubusercontent.com/101205543/200498273-2efe594a-5535-4d38-b1cb-a96a83a3cc2c.png)
 ![image](https://user-images.githubusercontent.com/101205543/200498121-8ad08005-a508-4cca-b5bd-dfbeb9715c07.png)
 
-- 값 조회
+값 조회
 ![image](https://user-images.githubusercontent.com/101205543/200497990-287aacf8-0996-420b-8bf5-6b27bf1e733d.png)
 
